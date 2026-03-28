@@ -1,0 +1,11 @@
+node_modules/
+src/
+public/
+package.json
+package-lock.json
+tsconfig.json
+*.ts
+*.tsx
+*.jsx
+!dist/
+SUPABASE-SETUP.sql
